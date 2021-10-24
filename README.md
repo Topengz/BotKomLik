@@ -12,7 +12,7 @@ pip install --upgrade pip
 
 git clone https://github.com/Topengz/BotKomLik
 cd BotKomLik
-python Bot.py
+python bot.py
 ```
 
 ### Images
